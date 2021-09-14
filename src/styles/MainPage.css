@@ -1,0 +1,26 @@
+.main_page {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main_page h1 {
+  color: #8f0000;
+}
+
+.main_page button {
+  width: 200px;
+  height: 40px;
+  background-color: #8f0000;
+  color: #e9e9e9;
+  border: none;
+  border-radius: 5px;
+  font-size: 35px;
+}
+/*# sourceMappingURL=MainPage.css.map */
